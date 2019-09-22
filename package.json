@@ -1,0 +1,6 @@
+
+{
+	"name": "Your app or game name",
+	"main": "project.html",
+ "icons": { "16": "icon.png"}
+}
